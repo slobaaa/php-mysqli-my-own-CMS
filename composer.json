@@ -1,0 +1,20 @@
+{
+    "name": "sloba/cms",
+    "require": {
+        "swiftmailer/swiftmailer": "^5.4",
+        "phpmailer/phpmailer": "^6.1",
+        "pusher/pusher-php-server": "^3.4"
+    },
+
+    "autoload": {
+        "classmap": [
+            "classes"
+        ]
+    },
+    "authors": [
+        {
+            "name": "slobaaa",
+            "email": "44851204+slobaaa@users.noreply.github.com"
+        }
+    ]
+}
